@@ -100,7 +100,7 @@ public class IciciPru {
   @AfterClass
   public void teardown()
   {
-	  driver.quit();
+	  driver.close();
   }
   
     
