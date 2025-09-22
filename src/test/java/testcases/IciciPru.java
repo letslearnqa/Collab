@@ -108,6 +108,7 @@ public class IciciPru {
   public void teardown()
   {
 	  driver.quit();
+	  //Note from QA 1 in day shift
   }
   
     
